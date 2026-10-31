@@ -10,3 +10,15 @@ Interactive Excel dashboard analysing a year of online fashion sales across mark
 8. What are the cancellation, refund, and return rates?
 9. Which product category (kurta, saree, blouse, set, etc.) sells the most?
 10. How does the sales performance of each category differ across channels and months?
+# process 
+**Process of Making the Dashboard**
+
+- Collected raw online fashion sales data (order ID, date, channel, category, amount, gender, age, state, status)
+- Listed the business questions the dashboard needed to answer
+- Cleaned the data in Excel: removed duplicates, fixed blanks and inconsistent spellings, corrected formats
+- Created helper columns for month and age group
+- Built pivot tables for each business question
+- Converted them into pivot charts (combo, pie, column, and bar charts)
+- Added slicers for Month, Channel, and Category and connected them to all charts
+- Arranged everything on one dashboard sheet with a consistent theme and clear titles
+- Checked the final numbers against the raw data
