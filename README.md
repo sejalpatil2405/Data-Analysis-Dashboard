@@ -22,3 +22,5 @@ Interactive Excel dashboard analysing a year of online fashion sales across mark
 - Checked the final numbers against the raw data
 # Dashboard 
 <img width="1797" height="590" alt="excel dashboard image" src="https://github.com/user-attachments/assets/4b8e5e4e-532f-4dc4-a66c-6931bd11d197" />
+# final conclusion
+The dashboard shows that the business’s sales come mainly from women (64%), especially adult women, and from three marketplaces: Amazon, Myntra, and Flipkart, which together bring in about 80% of orders. Maharashtra, Karnataka, and Tamil Nadu are the strongest states. About 90% of orders are delivered, but cancellations, refunds, and returns make up the remaining 10%. Sales are highest in the early months and decline toward the end of the year.
